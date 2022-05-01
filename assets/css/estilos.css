@@ -6,93 +6,25 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Lobster', cursive;
-}
 
-#navbarNavDropdown {
+body{
    font-family: 'Cabin', sans-serif;
 }
-
-#hero-section {
-    font-family: 'Cabin', sans-serif;
+.imagen-hero {
+    width: 40rem;
 }
 
-#hero-section #imagen-hero {
-    width: 50%;
-}
 
-h1{
+.hero-section {
     border: none;
-    border-bottom: 1px solid #333;
-    color: #333;
+    border-bottom: 4px solid #DC3545;
+    color: #DC3545;
     padding-bottom: 10pt;
     
 }
 
-.card-group,#recetas-relacionadas, img-top, .suscribete {
-    font-family: 'Cabin', sans-serif;
-
-}
-
-.carousel-indicators {
-    top: 100%;
-}
-  
-.carousel-indicators button {
-    width: 0.5rem !important;
-    height: 0.5rem !important;
-    border-radius: 50%;
-}
-
-  
-.carousel-inner img {
-    height: 12rem;
-}
-  
-#lista {
-    font-family: 'Cabin', sans-serif;
-    width: 90%;
-
-}
 
 
-#carouselExampleIndicators, #lista {
-    border: none;
-    border-bottom: 1px solid #333;
-    color: #333;
-    padding-bottom: 80pt;
-}
 
-/* recetas relacionadas*/
 
-#recetas-relacionadas .img-top {
-    height: 250px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-#recetas-relacionadas .card {
-    height: 450px;
-    
-}
-
-.suscribete {
-    background-color: #DC3545;
-    
-}
-
-#suscribete {
-    font-family: 'Cabin', sans-serif;
-}
-
-#suscribete a {
-    font-family: 'Lobster', cursive;
-
-}
-
-ul {
-    list-style: none;
-}
 
